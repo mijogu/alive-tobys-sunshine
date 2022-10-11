@@ -1,0 +1,86 @@
+/*
+Theme Name: Accelerate Pro Child
+Theme URI: https://themegrill.com/themes/accelerate/
+Author: DarnGood LLC
+Description: Accelerate Pro Child theme.
+Template: accelerate-pro
+*/
+
+#header-logo-image img {
+	max-width: 500px;
+}
+
+hr {
+	border: 2px solid #c66c16;
+}
+
+.main-navigation ul li ul li a, 
+.main-navigation ul li ul li.current-menu-item a, 
+.main-navigation ul li.current-menu-ancestor ul li a, 
+.main-navigation ul li.current-menu-item ul li a, 
+.main-navigation ul li.current_page_ancestor ul li a, 
+.main-navigation ul li.current_page_item ul li a {
+	font-size: inherit;
+}
+
+body.page-the-film #main #primary {
+	width: 100%;
+}
+
+body.page-the-film iframe {
+	width: 100%;
+	height: 500px;	
+}
+
+.widget_image_service_block {}
+
+.widget_image_service_block > .tg-one-third {
+	background-color: #EEEEDC;
+	padding-top: 0 !important;
+}
+
+.widget_image_service_block > .tg-one-third img {
+	width: 100%;
+	
+}
+blockquote {
+	background-color: transparent !important;
+}
+
+blockquote p, 
+blockquote p:before {
+	color: #327438 !important;	
+	margin-bottom: 0;
+}
+
+.main-navigation .sub-menu,
+.main-navigation .sub-menu li {
+	width: 100%;
+	min-width: 200px;
+}
+.main-navigation .sub-menu li a {
+	width: 100% !important;
+}
+.main-navigation ul li ul li ul {
+	left: 100%;
+}
+
+
+
+
+@media (min-width: 767px) {
+	
+	.widget_image_service_block {
+		display: flex;
+		overflow: hidden;
+	}
+	
+	.widget_image_service_block > .tg-one-third {
+		flex: 1;
+		float: none;
+	}	
+	.widget_image_service_block > .tg-one-third p {
+		padding: 0 15px;	
+	}
+	
+}

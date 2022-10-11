@@ -1,0 +1,1573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Accelerate Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun Nov 29 2015 14:37:34 GMT+0100\n"
+"PO-Revision-Date: Sun Dec 06 2015 15:55:02 GMT+0100\n"
+"Last-Translator: Foerderverein <obeerchen@web.de>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: de_DE\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ../404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Verzeihung, die Seite konnte leider nicht gefunden werden."
+
+#: ../404.php:24
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+"An diesem Ort wurde leider nichts gefunden. Bitte nutzen Sie die "
+"Suchfunktion."
+
+#: ../archive.php:34 ../inc/header-functions.php:240
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: ../archive.php:42 ../inc/header-functions.php:248
+#, php-format
+msgid "Day: %s"
+msgstr "Tag: %s"
+
+#: ../archive.php:45 ../inc/header-functions.php:251
+#, php-format
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: ../archive.php:48 ../inc/header-functions.php:254
+#, php-format
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: ../archive.php:51 ../inc/header-functions.php:257
+msgid "Asides"
+msgstr "Kurzmitteilungen"
+
+#: ../archive.php:54 ../inc/header-functions.php:260
+msgid "Images"
+msgstr "Bilder"
+
+#: ../archive.php:57 ../inc/header-functions.php:263
+msgid "Videos"
+msgstr "Videos"
+
+#: ../archive.php:60 ../inc/header-functions.php:266
+msgid "Quotes"
+msgstr "Zitate"
+
+#: ../archive.php:63 ../inc/header-functions.php:269
+msgid "Links"
+msgstr "Links"
+
+#: ../archive.php:66 ../sidebar-left.php:29 ../sidebar.php:29 ../inc/header-
+#: functions.php:272
+msgid "Archives"
+msgstr "Archive"
+
+#: ../comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:38 ../comments.php:55
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: ../comments.php:39 ../comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: ../comments.php:40 ../comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: ../comments.php:67
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: ../content-blog-large-image.php:41 ../content-blog-small-image.php:42 ..
+#: content.php:46 ../inc/customizer.php:717 ../inc/functions.php:117 ..
+#: inc/widgets/widgets.php:885
+msgid "Read more"
+msgstr "Weiter"
+
+#: ../content-page.php:24 ../content-single.php:29
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: ../functions.php:140
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben keine ausreichenden Rechte, um auf diese Seite zuzugreifen."
+
+#: ../functions.php:142
+msgid "Theme Options"
+msgstr "Theme-Einstellungen"
+
+#: ../functions.php:144
+#, php-format
+msgid ""
+"<p style=\"font-size: 16px; max-width: 800px\";>As our themes are hosted on "
+"WordPress repository, we need to follow the WordPress theme guidelines and "
+"as per the new guiedlines we have migrated all our Theme Options to "
+"Customizer.</p><p style=\"font-size: 16px; max-width: 800px\";>We too think "
+"this is a better move in the long run. All the options are unchanged, it is "
+"just that they are moved to customizer. So, please use this <a "
+"href=\"%1$s\">link</a> to customize your site. If you have any issues then do "
+"let us know via our <a href=\"%2$s\">Contact form</a></p>"
+msgstr ""
+"<p style=\"font-size: 16px; max-width: 800px\";>Entsprechend der jüngsten "
+"Wordpress-Richtlinien sind diese Theme-Einstellungen nun über diesen <a "
+"href=\"%1$s\">Link</a> erreichbar. Sollten Sie dabei auf Schwierigkeiten "
+"stoßen, informieren Sie uns bitte über unser <a href=\"%2$s\">Kontaktformular."
+"</a></p>"
+
+#: ../header.php:116
+msgid "Menu"
+msgstr "Menü"
+
+#: ../navigation.php:24 ../navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Zurück"
+
+#: ../navigation.php:25 ../navigation.php:37
+msgid "Next &rarr;"
+msgstr "Weiter &rarr;"
+
+#: ../navigation.php:44 ../inc/functions.php:692
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr; [Vorheriger Beitrag]"
+
+#: ../navigation.php:45 ../inc/functions.php:693
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr; [Nächster Beitrag]"
+
+#: ../no-results.php:18
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit, Ihren ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Beginnen Sie "
+"hier</a>."
+
+#: ../no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Zu Ihren Suchbegriffen wurde leider nichts Passendes gefunden. Bitte "
+"versuchen Sie es mit anderen Stichworten erneut."
+
+#: ../no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Leider konnten wir das Gewünschte nicht finden. Möglicherweise hilft die "
+"Suchfunktion."
+
+#: ../searchform.php:11 ../searchform.php:12
+msgid "Search"
+msgstr "Suche"
+
+#: ../sidebar-left.php:36 ../sidebar.php:36
+msgid "Meta"
+msgstr "Meta"
+
+#: ../inc/customizer.php:22
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: ../inc/customizer.php:26
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: ../inc/customizer.php:30
+msgid "View Demo"
+msgstr "Demo anschauen"
+
+#: ../inc/customizer.php:42
+msgid "Accelerate Pro"
+msgstr "Accelerate Pro"
+
+#: ../inc/customizer.php:64
+msgid "Header"
+msgstr "Header"
+
+#: ../inc/customizer.php:70
+msgid "Header Logo"
+msgstr "Header-Logo"
+
+#: ../inc/customizer.php:82
+msgid "Upload logo for your header."
+msgstr "Logo für Header hochladen"
+
+#: ../inc/customizer.php:90
+msgid "Show"
+msgstr "Anzeigen"
+
+#: ../inc/customizer.php:103
+msgid "Choose the option that you want."
+msgstr "Wählen Sie die gewünschte Option."
+
+#: ../inc/customizer.php:106
+msgid "Header Logo Only"
+msgstr "Nur Header-Logo"
+
+#: ../inc/customizer.php:107
+msgid "Header Text Only"
+msgstr "Nur Header-Text"
+
+#: ../inc/customizer.php:108
+msgid "Show Both"
+msgstr "Zeige beide"
+
+#: ../inc/customizer.php:109
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: ../inc/customizer.php:116
+msgid "Header Display Type"
+msgstr "Art der Header-Anzeige"
+
+#: ../inc/customizer.php:129
+msgid "Choose the header display type that you want."
+msgstr "Wählen Sie die gewünschte Art der Header-Anzeige"
+
+#: ../inc/customizer.php:132
+msgid "Type 1 (Default): Header text & logo on left, header sidebar on right"
+msgstr "Typ 1 (Standard): Header-Text und Logo links, Header-Seitenleiste rechts"
+
+#: ../inc/customizer.php:133
+msgid "Type 2: Header sidebar on left, header text & logo on right"
+msgstr "Typ 2: Header-Seitenleiste links, Header-Text und Logo rechts"
+
+#: ../inc/customizer.php:134
+msgid "Type 3: Header text, header sidebar both aligned center"
+msgstr "Typ 3: Header-Text und Header-Seitenleiste zentriert"
+
+#: ../inc/customizer.php:141
+msgid "Menu Display Type"
+msgstr "Art der Menü-Anzeige"
+
+#: ../inc/customizer.php:154
+msgid "Choose the menu display type that you want."
+msgstr "Wählen Sie die gewünschte Art der Menü-Anzeige"
+
+#: ../inc/customizer.php:157
+msgid "Type 1 (Default): Menu aligned left"
+msgstr "Typ 1 (Standard): Menü links"
+
+#: ../inc/customizer.php:158
+msgid "Type 2: Menu aligned center"
+msgstr "Typ 2: Menü zentriert"
+
+#: ../inc/customizer.php:159
+msgid "Type 3: Menu aligned right"
+msgstr "Typ 3: Menü rechts"
+
+#: ../inc/customizer.php:173
+msgid "Check to make the menu background cover the full width of its container"
+msgstr "Menü-Hintergrund über volle Breite strecken"
+
+#: ../inc/customizer.php:181
+msgid "Activate Header Top Bar"
+msgstr "Header-Kopfleiste aktivieren"
+
+#: ../inc/customizer.php:194
+msgid ""
+"Check to show top header bar. The top header bar includes social icons area, "
+"small text area and menu area."
+msgstr ""
+"Header-Kopfleiste sichtbar machen. Die Header-Kopfleiste enthält Social "
+"Icons, Kurztexte und Menüs"
+
+#: ../inc/customizer.php:202
+msgid "Header Top Bar Display Type"
+msgstr "Anzeigetyp der Header-Kopfleiste"
+
+#: ../inc/customizer.php:215
+msgid "Choose top bar display type."
+msgstr "Anzeigetyp der Kopfleiste wählen"
+
+#: ../inc/customizer.php:218
+msgid "Type 1 (Default): Social icons on left and top menu area on right"
+msgstr "Typ 1 (Standard): Social Icons links, Menüs rechts"
+
+#: ../inc/customizer.php:219
+msgid "Type 2: Top menu on left and social icons on right"
+msgstr "Typ 2: Menü links, Social Icons rechts"
+
+#: ../inc/customizer.php:226
+msgid "Header Image Position"
+msgstr "Anzeigeposition des Titelbildes."
+
+#: ../inc/customizer.php:239
+msgid "Choose top header image display position."
+msgstr "Wählen Sie die Anzeigeposition des Titelbildes."
+
+#: ../inc/customizer.php:242
+msgid "Position One: Display the Header image just above the site title/text."
+msgstr "Position Eins: Titelbild über Seitentitel (Text)"
+
+#: ../inc/customizer.php:243
+msgid ""
+"Position Two (Default): Display the Header image between site title/text and "
+"the main/primary menu."
+msgstr ""
+"Postion Zwei (Standard): Titelbild Zwischen Seitentitel (Text) und "
+"Hauptmenü/Navigation"
+
+#: ../inc/customizer.php:244
+msgid "Position Three: Display the Header image below main/primary menu."
+msgstr "Postion Drei: Titelbild unter Hauptmenü/Navigation"
+
+#: ../inc/customizer.php:258
+msgid "Check to make header image link back to home page."
+msgstr "Anklicken, um Header-Bild zur Startseite zu verlinken."
+
+#: ../inc/customizer.php:268
+msgid "Design"
+msgstr "Design"
+
+#: ../inc/customizer.php:274
+msgid "Site Layout"
+msgstr "Seiten-Layout"
+
+#: ../inc/customizer.php:287
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Seiten-Layout für gesamte Website setzen."
+
+#: ../inc/customizer.php:289
+msgid "Boxed layout"
+msgstr "Schmales Layout"
+
+#: ../inc/customizer.php:290
+msgid "Wide layout"
+msgstr "Weites Layout"
+
+#: ../inc/customizer.php:358
+msgid "Default layout"
+msgstr "Standard-Layout"
+
+#: ../inc/customizer.php:371
+msgid ""
+"Select default layout. This layout will be reflected in whole site archives, "
+"search etc. The layout for a single post and page can be controlled from "
+"below options."
+msgstr ""
+"Wählen Sie das Standardlayout. Diese Änderungen sind im Seitenarchiv, der "
+"Suche, etc sichtbar. Das Layout für eine Einzelseite und Beitrag kann durch "
+"die untenstehenden Optionen geändert werden."
+
+#: ../inc/customizer.php:385
+msgid "Default layout for pages only"
+msgstr "Standard-Layout für Seiten"
+
+#: ../inc/customizer.php:398
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page."
+msgstr ""
+"Wählen Sie das Standardlayout für Seiten. Layout wird für alle Seiten "
+"gesetzt, außer für einzelne Seiten wurde ein anderes festgelegt. "
+
+#: ../inc/customizer.php:412
+msgid "Default layout for single posts only"
+msgstr "Standardlayout für einzelne Beiträge"
+
+#: ../inc/customizer.php:425
+msgid ""
+"Select default layout for single posts. This layout will be reflected in all "
+"single posts unless unique layout is set for specific post."
+msgstr ""
+"Wählen Sie das Standardlayout für einzelne Beiträge. Das Layout wird für "
+"alle Beiträge gesetzt, außer im jeweiligen Beitrag wurde ein anderes "
+"ausgewählt."
+
+#: ../inc/customizer.php:439
+msgid "Posts page listing display type"
+msgstr "Anzeigetyp Beitragsliste"
+
+#: ../inc/customizer.php:452
+msgid ""
+"Choose the display type for the latests posts view or posts page view "
+"(static front page)."
+msgstr ""
+"Auswahl des Anzeigetyps für die neuesten Beiträge oder Beitragsanzeige "
+"(statische Startseite)."
+
+#: ../inc/customizer.php:454 ../inc/customizer.php:479
+msgid "Large featured image"
+msgstr "Großes Beitragsbild"
+
+#: ../inc/customizer.php:455 ../inc/customizer.php:480
+msgid "Small featured image"
+msgstr "Kleines Beitragsbild"
+
+#: ../inc/customizer.php:456 ../inc/customizer.php:481
+msgid "Small featured image with alternating sides"
+msgstr "Kleines Beitragsbild mit wechselnden Seiten"
+
+#: ../inc/customizer.php:464
+msgid "Archive/Category posts listing display type"
+msgstr "Anzeigetyp von Archiv-und Kategorielisten"
+
+#: ../inc/customizer.php:477
+msgid "Choose the display type for the archive/category view."
+msgstr "Wählen Sie den Anzeigetyp der Archiv- und Kategorieansicht."
+
+#: ../inc/customizer.php:504
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: ../inc/customizer.php:517
+msgid "Write your custom css."
+msgstr "Schreiben Sie Ihr eigenes CSS"
+
+#: ../inc/customizer.php:527
+msgid "Social Links"
+msgstr "Links zu Sozialen Netzwerken"
+
+#: ../inc/customizer.php:533
+msgid "Activate social links area"
+msgstr "Links zu Sozialen Netzwerken aktivieren"
+
+#: ../inc/customizer.php:546
+msgid ""
+"Check to activate social links area. You also need to activate the header "
+"top bar section in Header options to show this social links area"
+msgstr ""
+"Anklicken, um Links zu Sozialen Netzwerken zu aktivieren. Sie müssen "
+"ebenfalls die Header-Kopfleiste aktivieren, um die Links anzuzeigen."
+
+#: ../inc/customizer.php:552 ../inc/header-functions.php:33
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/customizer.php:553 ../inc/header-functions.php:34
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/customizer.php:554
+msgid "GooglePlus"
+msgstr "GooglePlus"
+
+#: ../inc/customizer.php:555 ../inc/header-functions.php:36
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/customizer.php:556 ../inc/header-functions.php:37
+msgid "CodePen"
+msgstr "CodePen"
+
+#: ../inc/customizer.php:557 ../inc/header-functions.php:38
+msgid "Digg"
+msgstr "Digg"
+
+#: ../inc/customizer.php:558 ../inc/header-functions.php:39
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/customizer.php:559 ../inc/header-functions.php:40
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/customizer.php:560 ../inc/header-functions.php:41
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/customizer.php:561 ../inc/header-functions.php:42
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/customizer.php:562 ../inc/header-functions.php:43
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/customizer.php:563 ../inc/header-functions.php:44
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../inc/customizer.php:564 ../inc/header-functions.php:45
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/customizer.php:565 ../inc/header-functions.php:46
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: ../inc/customizer.php:566 ../inc/header-functions.php:47
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/customizer.php:567
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/customizer.php:568 ../inc/functions.php:813 ../inc/functions.php:813 ..
+#: inc/header-functions.php:49
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/customizer.php:569 ../inc/header-functions.php:50
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/customizer.php:570 ../inc/header-functions.php:51
+msgid "Xing"
+msgstr "Xing"
+
+#: ../inc/customizer.php:571 ../inc/header-functions.php:52
+msgid "Weibo"
+msgstr "Weibo"
+
+#: ../inc/customizer.php:592
+#, php-format
+msgid "Add link for %1$s"
+msgstr "Link für %1$s hinzufügen"
+
+#: ../inc/customizer.php:607
+msgid "Check to show in new tab"
+msgstr "Anklicken, um in neuem Tab zu öffnen"
+
+#: ../inc/customizer.php:621
+msgid "Additional"
+msgstr "Zusätzlich"
+
+#: ../inc/customizer.php:627
+msgid "Activate favicon"
+msgstr "Aktiviere Favicon"
+
+#: ../inc/customizer.php:640
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr "Klicken um Favicon zu aktivieren. Favicon über untere Option hochladen."
+
+#: ../inc/customizer.php:648
+msgid "Upload favicon"
+msgstr "Favicon hochladen"
+
+#: ../inc/customizer.php:660
+msgid "Upload favicon for your site."
+msgstr "Favicon für Ihre Seite hochladen."
+
+#: ../inc/customizer.php:668
+msgid "Excerpts or Full Posts option"
+msgstr "Auszüge aus Beiträgen oder vollständige Beiträge anzeigen"
+
+#: ../inc/customizer.php:681
+msgid "Toggle between displaying excerpts and full posts on your blog and archives."
+msgstr "Zwischen Auszügen und vollständiger Darstellung von Beiträgen umschalten."
+
+#: ../inc/customizer.php:683
+msgid "Show full post content"
+msgstr "Gesamten Beitrag anzeigen"
+
+#: ../inc/customizer.php:684
+msgid "Show excerpt"
+msgstr "Auszug anzeigen"
+
+#: ../inc/customizer.php:692
+msgid "Excerpt Length"
+msgstr "Länge von Auszügen"
+
+#: ../inc/customizer.php:704
+msgid ""
+"Enter the number of Words you wish to show on excerpt. Default value is 40 "
+"words."
+msgstr "Anzahl der in Auszügen angezeigten Worte (Standard: 40)."
+
+#: ../inc/customizer.php:712
+msgid "Excerpt Read More Text"
+msgstr "Weiterlesen-Text für Auszüge"
+
+#: ../inc/customizer.php:724
+msgid "Replace the default Read more text with your own words"
+msgstr "Weiterlesen-Text durch eigenen Text ersetzen"
+
+#: ../inc/customizer.php:799 ../inc/functions.php:831
+msgid "Copyright &copy; "
+msgstr "Copyright &copy;"
+
+#: ../inc/customizer.php:799 ../inc/functions.php:831
+msgid "Theme by: "
+msgstr "Theme von:"
+
+#: ../inc/customizer.php:799 ../inc/functions.php:831
+msgid "Powered by: "
+msgstr "Powered by:"
+
+#: ../inc/customizer.php:803
+msgid "Footer Copyright Editor"
+msgstr "Fußzeilen-Editor"
+
+#: ../inc/customizer.php:815
+msgid ""
+"Edit the Copyright information in your footer. You can also use shortcodes "
+"[the-year], [site-link], [wp-link], [tg-link] for current year, your site "
+"link, WordPress site link and ThemeGrill site link respectively."
+msgstr ""
+"Editieren Sie die Copyright-Angaben in der Fußzeile. Sie können dabei die "
+"Codes [the-year], [site-link], [wp-link], [tg-link] für das aktuelle Jahr, "
+"die Adresse Ihrer Website, ein Link zu WordPress, und ein Link zu ThemeGrill "
+"verwenden."
+
+#: ../inc/customizer.php:841
+msgid "Slider"
+msgstr "Slider"
+
+#: ../inc/customizer.php:847
+msgid "Activate slider"
+msgstr "Slider aktivieren"
+
+#: ../inc/customizer.php:860
+msgid "Check to activate slider."
+msgstr "Anklicken, um Slider zu aktivieren."
+
+#: ../inc/customizer.php:868
+msgid "Slider Status"
+msgstr "Slider-Status"
+
+#: ../inc/customizer.php:881
+msgid "Choose the slider status that you want."
+msgstr "Gewünschten Slider-Status wählen."
+
+#: ../inc/customizer.php:885
+msgid "Slider on Front page"
+msgstr "Slider nur auf Startseite"
+
+#: ../inc/customizer.php:886
+msgid "Slider on all pages"
+msgstr "Slider auf allen Seiten"
+
+#: ../inc/customizer.php:893
+msgid "Slider Settings"
+msgstr "Slider-Einstellungen"
+
+#: ../inc/customizer.php:906
+msgid ""
+"Slider transition effect. Choose the transition effect that you like. "
+"Default is \"fade\"."
+msgstr "Effekte für Bildwechsel des Sliders wählen (Standard: \"Überblenden\")"
+
+#: ../inc/customizer.php:910
+msgid "Fade"
+msgstr "Überblenden"
+
+#: ../inc/customizer.php:911
+msgid "Wipe"
+msgstr "Wipe (Wischen)"
+
+#: ../inc/customizer.php:912
+msgid "scrollUp"
+msgstr "Aufwärts scrollen"
+
+#: ../inc/customizer.php:913
+msgid "scrollDown"
+msgstr "Abwärts scrollen"
+
+#: ../inc/customizer.php:914
+msgid "scrollLeft"
+msgstr "Nach links scrollen"
+
+#: ../inc/customizer.php:915
+msgid "scrollRight"
+msgstr "Nach rechts scrollen"
+
+#: ../inc/customizer.php:916
+msgid "blindX"
+msgstr "blindX"
+
+#: ../inc/customizer.php:917
+msgid "blindY"
+msgstr "blindY"
+
+#: ../inc/customizer.php:918
+msgid "blindZ"
+msgstr "blindZ"
+
+#: ../inc/customizer.php:919
+msgid "Cover"
+msgstr "Cover"
+
+#: ../inc/customizer.php:920
+msgid "Shuffle"
+msgstr "Shuffle"
+
+#: ../inc/customizer.php:933
+msgid "Slider transition delay time. Add number in seconds. Default is 4."
+msgstr ""
+"Verzögerungszeit des Bildwechsels. Geben Sie die Anzahl der Sekunden ein "
+"(Standard: 4)."
+
+#: ../inc/customizer.php:947
+msgid "Slider transition length time. Add number in seconds. Default is 1."
+msgstr ""
+"Dauer eines Bildwechsels. Geben Sie die Anzahl der Sekunden ein (Standard: "
+"1)."
+
+#: ../inc/customizer.php:961
+msgid ""
+"Number of slides Enter the number of slides you want then click \"Save "
+"Options\"."
+msgstr ""
+"Anzahl der Slides. Geben Sie die gerünschte Anzahl ein und klicken Sie auf "
+"\"Speichern\"."
+
+#: ../inc/customizer.php:976
+msgid "Check to make the slider images link back to respective links."
+msgstr "Anklicken, wenn die Slider-Bilder zu bestimmten Seiten verlinkt sein sollen."
+
+#: ../inc/customizer.php:991
+msgid "Check to make the slider cover the full width of its container"
+msgstr "Anklicken, um Slider-Bilder auf volle Breite des Anzeigebereichs zu strecken."
+
+#: ../inc/customizer.php:1001
+#, php-format
+msgid "Slider #%1$s"
+msgstr "Slider #%1$s"
+
+#: ../inc/customizer.php:1014
+msgid "Upload image"
+msgstr "Bild hochladen"
+
+#: ../inc/customizer.php:1028
+msgid "Enter title for this slide"
+msgstr "Titel des Slides eingeben"
+
+#: ../inc/customizer.php:1042
+msgid "Enter description for this slide"
+msgstr "Beschreibung des Slides eingeben"
+
+#: ../inc/customizer.php:1057
+msgid "Slider text position."
+msgstr "Textposition im Slider"
+
+#: ../inc/customizer.php:1061
+msgid "Right side"
+msgstr "Rechte Seite"
+
+#: ../inc/customizer.php:1062
+msgid "Left side"
+msgstr "Linke Seite"
+
+#: ../inc/customizer.php:1075
+msgid "Enter link to redirect for the slide title"
+msgstr "Ziel (Link) für Slide eingeben"
+
+#: ../inc/customizer.php:1086
+msgid "Typography"
+msgstr "Typographie"
+
+#: ../inc/customizer.php:1093
+msgid "Site title font. Default is \"Roboto Slab\"."
+msgstr "Schrifttype des Website-Titels (Standard: \"Roboto Slab\")"
+
+#: ../inc/customizer.php:1098
+msgid "Site tagline font. Default is \"Roboto Slab\"."
+msgstr "Schrifttype für seitliche Taglines (Standard: \"Roboto Slab\")"
+
+#: ../inc/customizer.php:1103
+msgid "Primary menu font. Default is \"Roboto\"."
+msgstr "Schrifttype der Menüs (Standard: \"Roboto\")"
+
+#: ../inc/customizer.php:1108
+msgid "Header menu font. Default is \"Roboto\"."
+msgstr "Schrifttype der Header-Menüs/Hauptnavigation (Standard: \"Roboto\")"
+
+#: ../inc/customizer.php:1113
+msgid "All Titles font. Default is \"Roboto Slab\"."
+msgstr "Schrifttype der Titel (Standard: \"Roboto\")"
+
+#: ../inc/customizer.php:1118
+msgid "Content font and for others. Default is \"Roboto\"."
+msgstr "Schrifttype für übrige Inhalte (Standard: \"Roboto\")"
+
+#: ../inc/customizer.php:1124
+msgid "Google Font Options"
+msgstr "Einstellungen für Google Fonts"
+
+#: ../inc/customizer.php:1279
+msgid "Site title font size. Default is 36px."
+msgstr "Schriftgröße Website-Titel (Standard: 36px)"
+
+#: ../inc/customizer.php:1285
+msgid "Site tagline font size. Default is 16px."
+msgstr "Schriftgröße für seitliche Taglines (Standard: 16px)"
+
+#: ../inc/customizer.php:1291
+msgid "Primary menu. Default is 16px."
+msgstr "Hauptmenü (Standard: 16px)"
+
+#: ../inc/customizer.php:1297
+msgid "Primary sub menu. Default is 14px."
+msgstr "Primäres Untermenü (Standard: 14px)"
+
+#: ../inc/customizer.php:1303
+msgid "Header menu. Default is 14px."
+msgstr "Header-Menü (Standard: 14px)"
+
+#: ../inc/customizer.php:1309
+msgid "Header sub menu. Default is 12px."
+msgstr "Header-Untermenü (Standard: 12px)"
+
+#: ../inc/customizer.php:1316
+msgid "Header font size Options"
+msgstr "Einstellungen Header-Schriftgröße"
+
+#: ../inc/customizer.php:1344
+msgid "Slider title. Default is 22px."
+msgstr "Slider-Titel (Standard: 22px)"
+
+#: ../inc/customizer.php:1350
+msgid "Slider content. Default is 15px."
+msgstr "Slider-Inhalt (Standard: 15px)"
+
+#: ../inc/customizer.php:1357
+msgid "Slider font size Options"
+msgstr "Slider-Schriftgrößen"
+
+#: ../inc/customizer.php:1385
+msgid "Heading h1 tag. Default is 30px."
+msgstr "Überschrift 1 (h1). Standard: 30px."
+
+#: ../inc/customizer.php:1391
+msgid "Heading h2 tag. Default is 28px."
+msgstr "Überschrift 2 (h2). Standard: 28px."
+
+#: ../inc/customizer.php:1397
+msgid "Heading h3 tag. Default is 26px."
+msgstr "Überschrift 3 (h3). Standard: 26px."
+
+#: ../inc/customizer.php:1403
+msgid "Heading h4 tag. Default is 24px."
+msgstr "Überschrift 4 (h4). Standard: 24px."
+
+#: ../inc/customizer.php:1409
+msgid "Heading h5 tag. Default is 22px."
+msgstr "Überschrift 5 (h5). Standard: 22px."
+
+#: ../inc/customizer.php:1415
+msgid "Heading h6 tag. Default is 19px."
+msgstr "Überschrift 16 (h6). Standard: 19px."
+
+#: ../inc/customizer.php:1421
+msgid "TG: Image Services widget title. Default is 22px."
+msgstr "TG: Bild-Services (Widget-Titel). Standard: 22px."
+
+#: ../inc/customizer.php:1427
+msgid "TG: Call to Action widget title. Default is 28px."
+msgstr "TG: Call To Action (Widget-Titel). Standard: 28px."
+
+#: ../inc/customizer.php:1433
+msgid "TG: Featured Widget titles that appear over images. Default is 16px."
+msgstr "TG: Featured Widget-Titel über Bildern. Standard: 16px."
+
+#: ../inc/customizer.php:1439
+msgid "Widget Titles. Default is 22px."
+msgstr "Widget-Titel (Standard: 22px)."
+
+#: ../inc/customizer.php:1445
+msgid "Post Title. Default is 26px."
+msgstr "Beitrags-Titel (Standard: 26px)."
+
+#: ../inc/customizer.php:1451
+msgid "Page Title. Default is 30px."
+msgstr "Seiten-Titel (Standard: 30px)."
+
+#: ../inc/customizer.php:1457
+msgid "Comment Title. Default is 26px."
+msgstr "Kommentar-Titel (Standard: 26px)."
+
+#: ../inc/customizer.php:1464
+msgid "Titles related font size options"
+msgstr "Titelbezogene Schriftgrößen-Einstellungen"
+
+#: ../inc/customizer.php:1492
+msgid ""
+"Content font size, also applies to other text like in search fields, post "
+"comment button etc. Default is 16px."
+msgstr ""
+"Schriftgröße für Inhalte, Text im Suchfeld, Kommentarbutton etc. Standard: "
+"16px."
+
+#: ../inc/customizer.php:1498
+msgid "Post meta font size: author and categories. Default is 16px."
+msgstr "Schriftgröße für Meta-Angaben: Autor und Kategorie. Standard: 16px."
+
+#: ../inc/customizer.php:1504
+msgid "Post meta font size: other than author and categories. Default is 12px."
+msgstr "Schriftgröße für Meta-Angaben außer Autor und Kategorie. Standard: 12px."
+
+#: ../inc/customizer.php:1511
+msgid "Content font size options"
+msgstr "Schriftgrößen für Inhalte"
+
+#: ../inc/customizer.php:1539
+msgid "Footer widget Titles. Default is 22px."
+msgstr "Fußleisten-Widgets (Titel). Standard: 22px."
+
+#: ../inc/customizer.php:1545
+msgid "Footer widget content font size. Default is 14px."
+msgstr "Fußleisten-Widgets (Inhalt). Standard: 14px."
+
+#: ../inc/customizer.php:1551
+msgid "Footer copyright text font size. Default is 12px."
+msgstr "Fußleiste: Copyright-Text. Standard: 12px."
+
+#: ../inc/customizer.php:1557
+msgid "Footer small menu. Default is 12px."
+msgstr "Fußleiste: Kleines Menü. Standard: 12px."
+
+#: ../inc/customizer.php:1564
+msgid "Footer font size options"
+msgstr "Schriftgrößen-Einstellungen für Fußleiste"
+
+#: ../inc/customizer.php:1592
+msgid "Color"
+msgstr "Farbe"
+
+#: ../inc/customizer.php:1599
+msgid "Primary color option"
+msgstr "Farbwahl Primärfarbe"
+
+#: ../inc/customizer.php:1611
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to match "
+"your site."
+msgstr ""
+"Sichtbar bei Links, Buttons und anderen Elementen. Wählen Sie eine Farbe, "
+"die zu Ihrer Website und Ihrem Logo paßt.\n"
+
+#: ../inc/customizer.php:1621
+msgid "Site Title. Default is #555555."
+msgstr "Website-Titel. Standard: #555555"
+
+#: ../inc/customizer.php:1626
+msgid "Site Tagline. Default is #999999."
+msgstr "Seitenleiste/Tagline. Standard: #999999"
+
+#: ../inc/customizer.php:1631
+msgid "Primary menu text color. Default is #444444."
+msgstr "Textfarbe Hauptmenü. Standard: #444444"
+
+#: ../inc/customizer.php:1636
+msgid "Primary menu selected/hovered item background color. Default is #77cc6d."
+msgstr "Primärmenü: Hintergrundfarbe bei Selektion. Standard: #77cc6d"
+
+#: ../inc/customizer.php:1641
+msgid "Primary menu bar (unselected/unhovered) background color. Default is #ffffff."
+msgstr "Primärmenü: Hintergundfarbe unselektiert. Standard: #ffffff"
+
+#: ../inc/customizer.php:1646
+msgid "Header background color. Default is #f8f8f8."
+msgstr "Header: Hintergundfarbe. Standard: #f8f8f8"
+
+#: ../inc/customizer.php:1651
+msgid "Header top bar background color. Default is #262626."
+msgstr "Header: Hintergrundfarbe Kopfleiste. Standard: #262626"
+
+#: ../inc/customizer.php:1656
+msgid "Header top menu item text color. Default is #cccccc."
+msgstr "Header: Textfarbe Hauptmenü. Standard: #cccccc"
+
+#: ../inc/customizer.php:1661
+msgid "Header top menu seleted/hovered item text color. Default is #ffffff."
+msgstr "Header: Textfarbe Hauptmenü - selektierter Text. Standard: #ffffff"
+
+#: ../inc/customizer.php:1666
+msgid "Header menu dropdown background color. Default is #262626."
+msgstr "Header: Hintergrundfarbe Hauptmenü-Dropdowns. Standard: #262626"
+
+#: ../inc/customizer.php:1671
+msgid "Header top line color. Default is #77cc6d."
+msgstr "Header: Farbe der Kopfleiste. Standard: #77cc6d"
+
+#: ../inc/customizer.php:1678
+msgid "Header Color Options"
+msgstr "Farbeinstellungen Header"
+
+#: ../inc/customizer.php:1704
+msgid "Slider title. Default is #ffffff."
+msgstr "Slider: Titelfarbe. Standard: #ffffff"
+
+#: ../inc/customizer.php:1709
+msgid "Slider title box background color. Default is #77cc6d."
+msgstr "Slider: Hintergrundfarbe Titel-Box. Standard: #77cc6d"
+
+#: ../inc/customizer.php:1714
+msgid "Slider content. Default is #ffffff."
+msgstr "Slider-Inhalt. Standard: #ffffff"
+
+#: ../inc/customizer.php:1719
+msgid "Slider background color. Default is #ffffff."
+msgstr "Slider: Hintergrundfarbe. Standard: #ffffff"
+
+#: ../inc/customizer.php:1726
+msgid "Slider part color options"
+msgstr "Slider-Farbeinstellungen"
+
+#: ../inc/customizer.php:1752
+msgid "Content Part titles color. Default is #444444."
+msgstr "Titelfarbe Inhaltsbereiche. Standard: #444444"
+
+#: ../inc/customizer.php:1757
+msgid "Posts title color. Default is #444444."
+msgstr "Titelfarbe Beiträge. Standard: #444444"
+
+#: ../inc/customizer.php:1762
+msgid "Page title color. Default is #444444."
+msgstr "Seitentitel. Standard: #444444"
+
+#: ../inc/customizer.php:1767
+msgid "Content text color. Default is #666666."
+msgstr "Textfarbe Inhalte. Standard: #666666"
+
+#: ../inc/customizer.php:1772
+msgid "Post meta (author and category) color. Default is #77cc6d."
+msgstr "Schriftfarbe Meta-Angaben (Autor und Kategorie). Standard: #77cc6d"
+
+#: ../inc/customizer.php:1777
+msgid "Post meta (other than author and category) color. Default is #aaaaaa."
+msgstr "Schriftfarbe Meta-Angaben außer Autor und Kategorie. Standard: #aaaaaa"
+
+#: ../inc/customizer.php:1782
+msgid "Button text color. Default is #ffffff."
+msgstr "Schriftfarbe Buttons/Schalter. Standard: #ffffff"
+
+#: ../inc/customizer.php:1787
+msgid "Button background color. Default is #77cc6d."
+msgstr "Hintergrundfarbe Buttons/Schalter. Standard: #77cc6d"
+
+#: ../inc/customizer.php:1792
+msgid "Left and Right sidebar widget title color. Default is #444444."
+msgstr "Überschriften (Widgets) linke und rechte Seitenleiste. Standard: #444444"
+
+#: ../inc/customizer.php:1797
+msgid "Content section background color. Default is #ffffff."
+msgstr "Hintergrundfarbe Inhaltsbereich. Standard: #ffffff"
+
+#: ../inc/customizer.php:1802
+msgid "TG: Call to Action widget background color. Default is #f8f8f8."
+msgstr "Hintergrundfarbe TG: Call to Action Widget. Standard: #f8f8f8"
+
+#: ../inc/customizer.php:1807
+msgid "TG: Testimonial widget text background color. Default is #fcfcfc."
+msgstr "Hintergrundfarbe TG: Testimonial widget text. Standard: #fcfcfc"
+
+#: ../inc/customizer.php:1814
+msgid "Content part color options"
+msgstr "Farbeinstellungen Inhaltsbereich"
+
+#: ../inc/customizer.php:1840
+msgid "Widget title color. Default is #ffffff."
+msgstr "Schriftfarbe Widget-Titel. Standard: #ffffff"
+
+#: ../inc/customizer.php:1845
+msgid "Footer widget content color. Default is #aaaaaa."
+msgstr "Inhaltsfarbe Fußleisten-Widget. Standard: #aaaaaa"
+
+#: ../inc/customizer.php:1850
+msgid "Footer widget content link text color. Default is #ffffff."
+msgstr "Linkfarbe Fußleisten-Widget. Standard: #ffffff"
+
+#: ../inc/customizer.php:1855
+msgid "Footer widget background color. Default is #27313d."
+msgstr "Hintergrundfarbe Fußleisten-Widget. Standard: #27313d"
+
+#: ../inc/customizer.php:1860
+msgid "Footer copyright text color. Default is #666666."
+msgstr "Fußleiste: Schriftfarbe Copyright-Text. Standard: #666666"
+
+#: ../inc/customizer.php:1865
+msgid "Footer small menu text color. Default is #666666."
+msgstr "Fußleiste: Textfarbe Kleines Menü. Standard: #666666"
+
+#: ../inc/customizer.php:1870
+msgid "Footer copyright part background color. Default is #f8f8f8."
+msgstr "Fußleiste: Hintergrundfarbe Copyright-Bereich. Standard: #f8f8f8"
+
+#: ../inc/customizer.php:1877
+msgid "Footer part color options"
+msgstr "Farbeinstellungen Fußleiste"
+
+#: ../inc/functions.php:302 ../inc/functions.php:347
+msgid ", "
+msgstr ","
+
+#: ../inc/functions.php:303
+#, php-format
+msgid "<span class=\"cat-links\"><i class=\"fa fa-folder-open\"></i>%1$s</span>"
+msgstr "<span class=\"cat-links\"><i class=\"fa fa-folder-open\"></i>%1$s</span>"
+
+#: ../inc/functions.php:341
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i "
+"class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr ""
+"<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i "
+"class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: ../inc/functions.php:351
+msgid "<i class=\"fa fa-comment\"></i> 0 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> 0 Kommentare"
+
+#: ../inc/functions.php:351
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> 1 Kommentar"
+
+#: ../inc/functions.php:351
+#, php-format
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr "<i class=\"fa fa-comments\"></i> % Kommentare"
+
+#: ../inc/functions.php:354
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../inc/functions.php:688
+msgid "Post navigation"
+msgstr "Beitrags-Navigation"
+
+#: ../inc/functions.php:698
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Beiträge"
+
+#: ../inc/functions.php:702
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/functions.php:728
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/functions.php:728
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: ../inc/functions.php:743
+msgid "Post author"
+msgstr "Autor des Beitrags"
+
+#: ../inc/functions.php:746
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: ../inc/functions.php:754
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Freischaltung."
+
+#: ../inc/functions.php:759
+msgid "Reply"
+msgstr "Antworten"
+
+#: ../inc/functions.php:822 ../inc/functions.php:822
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: ../inc/header-functions.php:35
+msgid "Google-Plus"
+msgstr "Google-Plus"
+
+#: ../inc/header-functions.php:48
+msgid "Vimeo-square"
+msgstr "Vimeo-square"
+
+#: ../inc/header-functions.php:277
+msgid "Page NOT Found"
+msgstr "Seite nicht gefunden"
+
+#: ../inc/header-functions.php:280
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: ../inc/header-functions.php:309
+msgid "You are here:"
+msgstr "Sie sind hier:"
+
+#: ../inc/admin/meta-boxes.php:16 ../inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Layout wählen"
+
+#: ../inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Standard-Layout"
+
+#: ../inc/admin/meta-boxes.php:33 ../inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "Seitenleiste rechts"
+
+#: ../inc/admin/meta-boxes.php:38 ../inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "Seitenleiste links"
+
+#: ../inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Keine Seitenleiste, volle Breite"
+
+#: ../inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Keine Seitenleiste, zentrierter Inhalt"
+
+#: ../inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "Widgets in rechter Seitenleiste anzeigen"
+
+#: ../inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "Widgets in linker Seitenleiste anzeigen"
+
+#: ../inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr "Seitenleiste Header"
+
+#: ../inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Zeigt Widgets im Header-Bereich über Hauptnavigation an."
+
+#: ../inc/widgets/widgets.php:51
+msgid "Business Sidebar"
+msgstr "Business-Seitenleiste"
+
+#: ../inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template."
+msgstr "Zeigt Widgets im Business-Seiten-Template an."
+
+#: ../inc/widgets/widgets.php:60
+msgid "Business Sidebar Two"
+msgstr "Business-Seitenleiste Zwei"
+
+#: ../inc/widgets/widgets.php:62
+msgid "Shows widgets on Business Template Two."
+msgstr "Zeigt Widgets im Business-Seiten-Template Zwei an."
+
+#: ../inc/widgets/widgets.php:69
+msgid "Business Sidebar Three"
+msgstr "Business-Seitenleiste Drei"
+
+#: ../inc/widgets/widgets.php:71
+msgid "Shows widgets on Business Template Three."
+msgstr "Zeigt Widgets im Business-Seiten-Template Drei an."
+
+#: ../inc/widgets/widgets.php:78
+msgid "Business Sidebar Four"
+msgstr "Business-Seitenleiste Vier"
+
+#: ../inc/widgets/widgets.php:80
+msgid "Shows widgets on Business Template Four."
+msgstr "Zeigt Widgets im Business-Seiten-Template Vier an."
+
+#: ../inc/widgets/widgets.php:87
+msgid "Business Sidebar Five"
+msgstr "Business-Seitenleiste Fünf"
+
+#: ../inc/widgets/widgets.php:89
+msgid "Shows widgets on Business Template Five."
+msgstr "Zeigt Widgets im Business-Seiten-Template Fünf an."
+
+#: ../inc/widgets/widgets.php:98
+msgid "Contact Page Sidebar"
+msgstr "Seitenleiste Kontaktseite"
+
+#: ../inc/widgets/widgets.php:100
+msgid "Shows widgets on Contact Page Template."
+msgstr "Zeigt Widgets im Kontaktseiten-Template an."
+
+#: ../inc/widgets/widgets.php:109
+msgid "Error 404 Page Sidebar"
+msgstr "Seitenleiste Fehler 404-Seite"
+
+#: ../inc/widgets/widgets.php:111
+msgid "Shows widgets on Error 404 page."
+msgstr "Zeigt Widgets auf Fehler 404-Seite an."
+
+#: ../inc/widgets/widgets.php:120
+msgid "Footer Sidebar One"
+msgstr "Fuß-Seitenleiste Eins"
+
+#: ../inc/widgets/widgets.php:122
+msgid "Shows widgets at footer sidebar one."
+msgstr "Zeigt Widgets in Fuß-Seitenleiste Eins an."
+
+#: ../inc/widgets/widgets.php:131
+msgid "Footer Sidebar Two"
+msgstr "Fuß-Seitenleiste Zwei"
+
+#: ../inc/widgets/widgets.php:133
+msgid "Shows widgets at footer sidebar two."
+msgstr "Zeigt Widgets in Fuß-Seitenleiste Zwei an."
+
+#: ../inc/widgets/widgets.php:142
+msgid "Footer Sidebar Three"
+msgstr "Fuß-Seitenleiste Drei"
+
+#: ../inc/widgets/widgets.php:144
+msgid "Shows widgets at footer sidebar three."
+msgstr "Zeigt Widgets in Fuß-Seitenleiste Drei an."
+
+#: ../inc/widgets/widgets.php:170
+msgid "Display Featured Single Page"
+msgstr "Schwerpunktseite anzeigen"
+
+#: ../inc/widgets/widgets.php:172
+msgid "TG: Featured Single Page"
+msgstr "TG: Schwerpunktseite"
+
+#: ../inc/widgets/widgets.php:181
+msgid "Suitable for Business Sidebar and Left/Right Sidebar."
+msgstr "Geeignet für Business-Seitenleiste und linke/rechte Seitenleiste."
+
+#: ../inc/widgets/widgets.php:184 ../inc/widgets/widgets.php:553 ..
+#: inc/widgets/widgets.php:618 ../inc/widgets/widgets.php:750 ..
+#: inc/widgets/widgets.php:944 ../inc/widgets/widgets.php:1220
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../inc/widgets/widgets.php:187
+msgid "Displays the title of the Page if title input is empty."
+msgstr "Zeigt Seitentitel an, falls Titel-Eingabefeld leer ist."
+
+#: ../inc/widgets/widgets.php:190 ../inc/widgets/widgets.php:625 ..
+#: inc/widgets/widgets.php:1104
+msgid "Page"
+msgstr "Seite"
+
+#: ../inc/widgets/widgets.php:194
+msgid "Remove Featured image"
+msgstr "Schwerpunktbild entfernen"
+
+#: ../inc/widgets/widgets.php:199 ../inc/widgets/widgets.php:204
+msgid "Show Image Before Title"
+msgstr "Bild vor Titel anzeigen"
+
+#: ../inc/widgets/widgets.php:200 ../inc/widgets/widgets.php:205
+msgid "Show Image After Title"
+msgstr "Bild nach Titel anzeigen"
+
+#: ../inc/widgets/widgets.php:269
+msgid "Use this widget to show the call to action section."
+msgstr "Verwenden sie dieses Widget, um die Call To Action-Sektion anzuzeigen."
+
+#: ../inc/widgets/widgets.php:271
+msgid "TG: Call To Action Widget"
+msgstr "TG: Call To Action Widget"
+
+#: ../inc/widgets/widgets.php:289
+msgid "Call to Action Main Text"
+msgstr "Call To Action Haupttext"
+
+#: ../inc/widgets/widgets.php:291
+msgid "Call to Action Additional Text"
+msgstr "Call To Action Zusatztext"
+
+#: ../inc/widgets/widgets.php:294 ../inc/widgets/widgets.php:772
+msgid "Button Text:"
+msgstr "Button-Text:"
+
+#: ../inc/widgets/widgets.php:298 ../inc/widgets/widgets.php:776
+msgid "Button Redirect Link:"
+msgstr "Button-Umleitungslink:"
+
+#: ../inc/widgets/widgets.php:302
+msgid "Open in new tab"
+msgstr "In neuem Tab öffnen"
+
+#: ../inc/widgets/widgets.php:403
+msgid "Display Testimonial"
+msgstr "Testimonial (Zeugnis) anzeigen"
+
+#: ../inc/widgets/widgets.php:405
+msgid "TG: Testimonial"
+msgstr "TG: Testimonial"
+
+#: ../inc/widgets/widgets.php:551
+msgid ""
+"Note: To add the image. Go to Media->Add New. Upload an image. Copy the "
+"image path link and paste in image input field. Recommended size for the "
+"image is 72 x 72 pixels."
+msgstr ""
+"Hinweis: Um das Bild hinzuzufügen, wählen Sie Medien -> Datei hinzufügen. "
+"Kopieren Sie die Pfadadresse des Bildes in das Eingabefeld. Die empfohlene "
+"Bildgröße beträgt 72 x 72 Pixel."
+
+#: ../inc/widgets/widgets.php:556
+msgid "First Testimonial"
+msgstr "Testimonial Eins"
+
+#: ../inc/widgets/widgets.php:557 ../inc/widgets/widgets.php:571
+msgid "Testimonial Description"
+msgstr "Testimonial-Beschreibung"
+
+#: ../inc/widgets/widgets.php:560 ../inc/widgets/widgets.php:574
+msgid "Name:"
+msgstr "Name:"
+
+#: ../inc/widgets/widgets.php:563 ../inc/widgets/widgets.php:577
+msgid "Byline:"
+msgstr "Verfasserzeile:"
+
+#: ../inc/widgets/widgets.php:566 ../inc/widgets/widgets.php:580
+msgid "Image:"
+msgstr "Bild:"
+
+#: ../inc/widgets/widgets.php:570
+msgid "Second Testimonial"
+msgstr "Testimonial Zwei"
+
+#: ../inc/widgets/widgets.php:595
+msgid "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
+msgstr ""
+"Zeigen Sie einige Seiten als Beispiel für kürzliche Arbeiten/Projekte. Am "
+"Besten für Business-Seitenleiste im Kopf- oder Fußbereich geeignet."
+
+#: ../inc/widgets/widgets.php:597
+msgid "TG: Featured Widget"
+msgstr "TG: Schwerpunkt-Widget (Featured Widget)"
+
+#: ../inc/widgets/widgets.php:621 ../inc/widgets/widgets.php:753 ..
+#: inc/widgets/widgets.php:947
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../inc/widgets/widgets.php:724
+msgid "Display latest posts or posts of specific category"
+msgstr "Jüngste Beiträge oder Beiträge aus spezifischer Kategorie anzeigen"
+
+#: ../inc/widgets/widgets.php:726
+msgid "TG: Featured Posts"
+msgstr "TG: Schwerpunktbeiträge (Featured Posts)"
+
+#: ../inc/widgets/widgets.php:756
+msgid "Number of posts to display:"
+msgstr "Anzahl der anzuzeigenden Beiträge:"
+
+#: ../inc/widgets/widgets.php:760
+msgid "Large Featured Image"
+msgstr "Großes Beitragsbild"
+
+#: ../inc/widgets/widgets.php:761
+msgid "Small Featured Image"
+msgstr "Kleines Beitragsbild"
+
+#: ../inc/widgets/widgets.php:763
+msgid "Show latest Posts"
+msgstr "Letzte Beiträge anzeigen"
+
+#: ../inc/widgets/widgets.php:764
+msgid "Show posts from a category"
+msgstr "Beiträge einer Kategorie anzeigen"
+
+#: ../inc/widgets/widgets.php:767
+msgid "Select category"
+msgstr "Kategorie wählen"
+
+#: ../inc/widgets/widgets.php:779
+msgid ""
+"Note: Use this button to redirect to specific category or any link as you "
+"like."
+msgstr ""
+"Hinweis: verwenden Sie diesen Button, um zu bestimmten Kategorien oder Links "
+"umzuleiten."
+
+#: ../inc/widgets/widgets.php:924
+msgid "Widget to show clients/partners images"
+msgstr "Widget zur Anzeige von Partnern und Klienten"
+
+#: ../inc/widgets/widgets.php:926
+msgid "TG: Our Clients"
+msgstr "TG: Unsere Klienten"
+
+#: ../inc/widgets/widgets.php:942
+msgid ""
+"Note: To add the image. Go to Media->Add New. Upload an image. Copy the "
+"image path link and paste in image input field. Recommended size for the "
+"image is 150px * 80x."
+msgstr ""
+"Hinweis: Um das Bild hinzuzufügen, wählen Sie Medien -> Datei hinzufügen. "
+"Kopieren Sie die Pfadadresse des Bildes in das Eingabefeld. Die empfohlene "
+"Bildgröße beträgt 150 x 80 Pixel."
+
+#: ../inc/widgets/widgets.php:956
+msgid "Image Path Link "
+msgstr "Pfad zum Bild"
+
+#: ../inc/widgets/widgets.php:959
+msgid "Redirect Link "
+msgstr "Umleitungs-Adresse"
+
+#: ../inc/widgets/widgets.php:962
+msgid "Hover Title Text "
+msgstr "Schwebender Titeltext"
+
+#: ../inc/widgets/widgets.php:1086
+msgid "Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr ""
+"Zeigen Sie einige Seiten als Serviceangebot an. Am Besten geeignet für "
+"Business-Kopf- oder Fußseitenleiste."
+
+#: ../inc/widgets/widgets.php:1088
+msgid "TG: Image Services"
+msgstr "TG: Image Services"
+
+#: ../inc/widgets/widgets.php:1187
+msgid "Custom Tag Cloud"
+msgstr "Stichwortwolke"
+
+#: ../inc/widgets/widgets.php:1189
+msgid "TG: Custom Tag Cloud"
+msgstr "TG: Stichwortwolke"
+
+#. Name of the template
+msgid "Business Template Five"
+msgstr "Business-Template Fünf"
+
+#. Name of the template
+msgid "Business Template Four"
+msgstr "Business-Template Vier"
+
+#. Name of the template
+msgid "Business Template Three"
+msgstr "Business-Template Drei"
+
+#. Name of the template
+msgid "Business Template Two"
+msgstr "Business-Template Zwei"
+
+#. Name of the template
+msgid "Business Template"
+msgstr "Business-Template "
+
+#. Name of the template
+msgid "Contact Page Template"
+msgstr "Kontaktseiten-Template"
+
+#. Theme URI of the theme
+msgid "http://themegrill.com/themes/accelerate-pro/"
+msgstr "http://themegrill.com/themes/accelerate-pro/"
+
+#. Description of the theme
+msgid "Accelerate Pro is the pro version of Accelerate free theme."
+msgstr "Accelerate Pro ist die professionelle Version des Accelerate Free-Themes."
+
+#. Author URI of the theme
+msgid "http://themegrill.com"
+msgstr "http://themegrill.com"
