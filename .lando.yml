@@ -1,0 +1,13 @@
+name: tobyfluek
+recipe: wordpress
+config:
+  webroot: .
+  database: mysql
+# proxy:
+#   appserver:
+#     - alivetobyssunshine.local
+services:
+  appserver:
+    xdebug: debug
+    config:
+      php: .vscode/php.ini
